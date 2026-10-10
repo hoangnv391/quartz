@@ -1,6 +1,10 @@
 ---
 title: How to start this blog again on a Windows machine
 date: 2026-10-09
+tags:
+  - start
+  - restart
+  - blog-guide
 ---
 # Step 1: Install Git and Node.js
 1. Download and install Git for Windows from https://git-scm.com/ (choose "Next" for default option)
